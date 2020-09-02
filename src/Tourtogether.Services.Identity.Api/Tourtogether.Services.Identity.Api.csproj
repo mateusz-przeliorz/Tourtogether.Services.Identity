@@ -8,5 +8,7 @@
     <Folder Include="Controllers\" />
   </ItemGroup>
 
-
+  <ItemGroup>
+    <ProjectReference Include="..\Tourtogether.Services.Identity.Infrastructure\Tourtogether.Services.Identity.Infrastructure.csproj" />
+  </ItemGroup>
 </Project>
